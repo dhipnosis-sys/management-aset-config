@@ -1,1 +1,3 @@
-{ server_url: https://management-aset.vercel.app/ }
+{
+  "server_url": "https://management-aset.vercel.app/"
+}
